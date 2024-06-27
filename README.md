@@ -14,6 +14,8 @@ Description:
 
 
 Example Image:
+![image](https://github.com/jeflynn135/E-Commerce-ORM/assets/158126448/92bd6964-5fad-4504-bf7d-ce11418be32b)
 
 
 Video Demonstration:
+https://drive.google.com/file/d/1c7jJ5pcyzX1wKCfN5HMX5ZJVDFY2who0/view 
